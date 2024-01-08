@@ -9,8 +9,6 @@
         font-size: var(--h-size);
         margin-top: var(--h-margin);
         margin-bottom: var(--h-margin);
-        margin-left: 0;
-        margin-right: 0;
         font-weight: bold;
     }
 </style>

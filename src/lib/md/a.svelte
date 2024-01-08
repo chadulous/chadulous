@@ -1,7 +1,7 @@
 <script lang=ts>
     export let href: string;
-    export let rel: string;
+    export let rel: HTMLLinkElement["rel"];
     console.log(href, rel);
 </script>
 
-<a {href} {rel}><slot /></a>
+<a class="font-bold underline" {href} {rel}><slot /></a>

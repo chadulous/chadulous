@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Bronti",
+        "link": "https://www.bronti.xyz/",
+        "description": "Bronti is a web app that allows developers to host their own discord bots. Bronti was built with sveltekit & deno. It is hosted on vercel and deno deploy.",
+        "wip": true
+    }
+]

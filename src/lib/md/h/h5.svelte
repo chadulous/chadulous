@@ -1,7 +1,18 @@
 <script>
 	import values from "./values";
+    const z = values(5);
 </script>
 
-<span class="{values(5)} font-bold">
+<style>
+    span {
+        display: block;
+        font-size: var(--h-size);
+        margin-top: var(--h-margin);
+        margin-bottom: var(--h-margin);
+        font-weight: bold;
+    }
+</style>
+
+<span class="font-bold" style="--h-size: {z[0]}em; --h-margin: {z[1]}em;">
     <slot />
 </span>
