@@ -1,8 +1,8 @@
 [
     {
-        "name": "Bronti",
-        "link": "https://www.bronti.xyz/",
-        "description": "Bronti is a web app that allows developers to host their own discord bots. Bronti was built with sveltekit & deno. It is hosted on vercel and deno deploy.",
+        "name": "Solodity",
+        "link": "https://www.solodity.app/",
+        "description": "Solodity is a music platform for users who want a more flexible plan for their music. Users pay by listen, instead of a monthly subscription. Solodity is built with sveltekit, deno ",
         "wip": true
     }
 ]

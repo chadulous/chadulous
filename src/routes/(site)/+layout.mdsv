@@ -4,9 +4,9 @@
 
 </script>
 <div class="flex flex-row [&>span:not(:first-child)]:!ml-2">
-    <H1><A href="/" rel="nofollow">chadulous</A></H1>
+    <H1><A href="/" rel="me">chadulous</A></H1>
     <div class="flex-grow"></div>
-    <H1><A href="/projects" rel="nofollow">projects</A></H1>
-    <H1><A href="/music" rel="nofollow">music</A></H1>
+    <H1><A href="/projects" rel="me">projects</A></H1>
+    <H1><A href="/music" rel="me">music</A></H1>
 </div>
 <slot />

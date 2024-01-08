@@ -1,8 +1,8 @@
 <script>
-    import "../app.css";
+    import "../app.pcss";
 </script>
 
 
-<div class="w-full h-full px-4 bg-slate-800 text-white">
+<div class="w-full h-full px-4 text-foreground">
     <slot />
 </div>
