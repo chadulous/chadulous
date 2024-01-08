@@ -1,1 +1,1 @@
-# I am [chadulous](https://chadulous.me)!
+[chadulous.me](https://chadulous.me)
